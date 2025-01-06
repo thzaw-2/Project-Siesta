@@ -10,7 +10,7 @@ class CMD(object):
     START = ["start", f"start@{bot}"]
     HELP = ["help", f"help@{bot}"]
     SETTINGS = ["settings", f"settings@{bot}"]
-    DOWNLOAD = ["download", f"download@{bot}"]
+    dl = ["download", f"download@{bot}"]
     BAN = ["ban", f"ban@{bot}"]
     AUTH = ["auth", f"auth@{bot}"]
     LOG = ["log", f"log@{bot}"]
